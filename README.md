@@ -23,4 +23,5 @@
 - PrintScreen:
 <div>
   <img align="center" height="400" widht="400" src="/Print/Maratona.JPG" />
+    <img align="center" height="400" widht="400" src="/Print/Print.jpg" />
 </div><br>
